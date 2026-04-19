@@ -2,14 +2,14 @@ version: '3.8'
 services:
   db:
     image: mysql:8.0
-    container_name: mysql_db_lr4
+    container_name: mysql_db
     environment:
       MYSQL_DATABASE: javaSpringLR
       MYSQL_USER: admin
       MYSQL_PASSWORD: 12345678
       MYSQL_ROOT_PASSWORD: 12345678
     ports:
-      - "3307:3306"
+      - "3306:3306"
 
   app:
     image: eclipse-temurin:11-jre-jammy

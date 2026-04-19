@@ -1,0 +1,6 @@
+/home/oleks/IdeaProjects/JavaSpringLR4/src/main/java/com/ip241k/skoryk/AppConfiguration.java
+/home/oleks/IdeaProjects/JavaSpringLR4/src/main/java/com/ip241k/skoryk/MyApplication.java
+/home/oleks/IdeaProjects/JavaSpringLR4/src/main/java/com/ip241k/skoryk/config/DatabaseConfig.java
+/home/oleks/IdeaProjects/JavaSpringLR4/src/main/java/com/ip241k/skoryk/dao/UserDAO.java
+/home/oleks/IdeaProjects/JavaSpringLR4/src/main/java/com/ip241k/skoryk/model/User.java
+/home/oleks/IdeaProjects/JavaSpringLR4/src/main/java/com/ip241k/skoryk/resource/UserResource.java

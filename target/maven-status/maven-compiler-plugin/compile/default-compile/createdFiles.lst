@@ -1,0 +1,6 @@
+com/ip241k/skoryk/resource/UserResource.class
+com/ip241k/skoryk/model/User.class
+com/ip241k/skoryk/config/DatabaseConfig.class
+com/ip241k/skoryk/dao/UserDAO.class
+com/ip241k/skoryk/MyApplication.class
+com/ip241k/skoryk/AppConfiguration.class
